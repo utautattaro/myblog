@@ -1,5 +1,6 @@
 ---
 title: 二つ目の記事
+description: markdown の書き方サンプル
 ---
 
 # 記述例
